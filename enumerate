@@ -1,0 +1,13 @@
+text = input()
+for i, letter in enumerate(text):
+    print(f"{i}. {letter}")
+
+'''
+аовщав
+0. а
+1. о
+2. в
+3. щ
+4. а
+5. в
+'''
