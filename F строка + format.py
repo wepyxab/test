@@ -8,6 +8,8 @@ for name, dolar in table.items():
 # {num :.2f} - 2 знака после запятой
 # {num :x} - 16 ричная система исчсл (hex)
 # {num :b} - 2 ичная система исчсл (bin)
+# {num :,} - 1,000 instead of 1000
+# round(num, 2) - 1,23
 
 
 
